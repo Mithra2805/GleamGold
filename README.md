@@ -1,0 +1,1 @@
+The **Gold Price Prediction Project** uses machine learning models to predict future fluctuations in gold prices based on historical data and market trends. Key features include factors such as market demand, geopolitical events, and economic indicators. The goal is to provide insights for investors and traders to make informed decisions in the gold market.
